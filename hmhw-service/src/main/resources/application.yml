@@ -1,0 +1,9 @@
+server:
+  port: 9527
+  servlet:
+    context-path: /hmhw
+
+spring:
+  application: hmhw
+  profiles:
+    active: dev
